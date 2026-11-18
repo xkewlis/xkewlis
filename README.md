@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi! I'm Karen 👋  
-💻 I'm a Computer Science Engineer and a Software Developer  
-🌐 I work on both Frontend and Backend (Full Stack)  
+💻 I'm a Computer Science Engineer and a Full stack Software Developer  
 🎨 I also create UX/UI mockups for web screens to guide the development process  
 
 
